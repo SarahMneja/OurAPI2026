@@ -1,0 +1,12 @@
+# Files to keep locally (professor corrections)
+appc.py
+db.py
+requirements1.txt
+
+# Python environment and cache
+.venv/
+__pycache__/
+.vscode/
+
+# Logs
+logs/
