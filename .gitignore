@@ -1,6 +1,6 @@
 # Files to keep locally (professor corrections)
 appc.py
-db.py
+db1.py
 requirements1.txt
 
 # Python environment and cache
@@ -10,3 +10,7 @@ __pycache__/
 
 # Logs
 logs/
+
+.env
+
+app_backup.py
