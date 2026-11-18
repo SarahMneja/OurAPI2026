@@ -1,7 +1,5 @@
 # Files to keep locally (professor corrections)
-appc.py
-db1.py
-requirements1.txt
+classroom/
 
 # Python environment and cache
 .venv/

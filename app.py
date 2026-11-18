@@ -14,6 +14,7 @@ from db import Database
 # --------------------------------------------------
 
 app = Flask(__name__)
+app.json.sort_keys = False
 
 SECRET = os.getenv("JWT_SECRET", "change-me-please")
 ACCESS_MINUTES = 1
