@@ -1,8 +1,6 @@
 # OurAPI2026
 
-A Flask REST API for managing students and their academic reports. The
-project includes JWT authentication, input validation, and Docker
-support.
+Course project (in progress): a Flask REST API for managing students and academic reports, with JWT authentication, input validation, and Docker support. Currently uses in-memory storage, with database persistence planned as the next step.
 
 ## Features
 
